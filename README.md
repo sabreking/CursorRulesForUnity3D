@@ -30,3 +30,15 @@ Check ImportantLessons.md when fixing bugs, solving performance issues, or makin
 ALWAYS update the Changelog.md under [Unreleased] when making changes and update the version number in ProjectSettings.asset (bundleVersion) when releasing a new version.
 When Asked to Commit Staged Changes always check changelog to see if the changes in stagedfiles are represented in the changelog before commiting).
 When releasing: Review [Unreleased] changes to determine version bump (features→minor, fixes→patch, breaking→major), move changes to new version section with date, update bundleVersion in ProjectSettings.asset, commit as "release: Version X.Y.Z", and create git tag.
+
+Link to the CursorRules
+https://github.com/sabreking/CursorRulesForUnity3D
+
+Link to the cursor Unity Plugin
+https://github.com/boxqkrtm/com.unity.ide.cursor
+
+Link to my Game if you want to wishlist
+https://store.steampowered.com/app/3363570/Symphorix/?beta=0
+
+Link to my Studio Page
+https://www.youtube.com/@OnTriggerJoy/shorts
